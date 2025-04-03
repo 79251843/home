@@ -5,6 +5,11 @@
     "link": "https://blog.hlrjk.top/"
   },
   {
+    "icon": "Compass",
+    "name": "加入社区",
+    "link": "https://pc.fenchuan8.com/#/index?forum=99312&yqm=DEFHF"
+  },
+  {
     "icon": "Cloud",
     "name": "网盘",
     "link": "https://share.feijipan.com/s/ikFQrqMq"
@@ -23,10 +28,5 @@
     "icon": "Fire",
     "name": "今日热榜",
     "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://go.itab.link/"
   },
 ]
